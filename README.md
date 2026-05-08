@@ -48,7 +48,7 @@ Full-Stack Developer with deep technical background and commercial experience bu
 **Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,xcode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin" />
 </p>
 
 > SwiftUI · Jetpack Compose
@@ -68,7 +68,7 @@ Full-Stack Developer with deep technical background and commercial experience bu
 **Tools & Workflow**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,jest,storybook,figma,postman,jira" />
+  <img src="https://skillicons.dev/icons?i=git,jest,figma,postman" />
 </p>
 
 ---
