@@ -7,6 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=incredible007&color=0e75b6&style=flat-square)](https://github.com/incredible007)
 [![Email](https://img.shields.io/badge/Email-me@andrewpodgola.pro-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:me@andrewpodgola.pro)
 [![Telegram](https://img.shields.io/badge/Telegram-@raynd44-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/raynd44)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Andreassss-blue)](https://leetcode.com/u/Andreassss/)
 
 </div>
 
@@ -129,5 +130,6 @@ Oct 2020 – Dec 2021  │  Optimum Nutrition   │  Software Engineer (React, T
 [![Email](https://img.shields.io/badge/me@andrewpodgola.pro-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:me@andrewpodgola.pro)
 [![Telegram](https://img.shields.io/badge/@raynd44-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/raynd44)
 [![GitHub](https://img.shields.io/badge/incredible007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/incredible007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Andreassss-000000?style=for-the-badge&logo=leet&logoColor=white)](https://leetcode.com/u/Andreassss/)
 
 </div>
